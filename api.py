@@ -1,4 +1,4 @@
-import requests 
+# import requests 
 
-def fetch_random_user_api():
-    ur; = 
+# def fetch_random_user_api():
+#     ur; = 
