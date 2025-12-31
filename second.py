@@ -14,5 +14,5 @@
 # fruit.append(f6)
 # f7 = input("enter fruit name:")
 # fruit.append(f7)
-# print(fruit) 
+# print(fruitg,sgdn)  
 # a = input("enter a name hhhh  ")
